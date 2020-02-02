@@ -1,0 +1,14 @@
+{
+    "api_key": "<Shodan API key>",
+    collectors:
+    [
+        {
+            "aid": "<Alert ID>",
+            "log": "<Log Path>"
+        },
+        {
+            "aid": "<Alert ID>",
+            "log": "<Log Path>"
+        }
+    ]
+}
